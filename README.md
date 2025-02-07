@@ -3,7 +3,7 @@ This is a full-stack quiz web application that allows users to take quizzes, tra
 
 
 link for QuizWebApplication: https://quiz-web-application-890f9.web.app
-
+(Please refresh for some time to fetch the quiz from API ,it may take couple of minutes to load the page )
 
 
 Frontend:
