@@ -35,8 +35,20 @@ Features
 
 
 
-
 Backend :
 Deployment (Render):The backend is hosted on Render.
 To deploy, create a new service on Render, link your GitHub repository, and deploy the Express server.
 Frontend Deployment :Firebase
+
+
+![Image](https://github.com/user-attachments/assets/f0b418c0-55b9-4ac2-a242-28810efbef16)
+
+![Image](https://github.com/user-attachments/assets/1629a53a-5bc6-43cf-a84a-f388ae86c9f8)
+
+![Image](https://github.com/user-attachments/assets/b6b06bae-0ab9-4ebf-8ac1-c05a85d954fc)
+
+![Image](https://github.com/user-attachments/assets/3afe9f8d-24d8-4fac-93e2-98a3b4bf96a5)
+
+![Image](https://github.com/user-attachments/assets/10b4f213-3bbf-402e-80e3-afce15272a7c)
+
+![Image](https://github.com/user-attachments/assets/fbfbc3dd-b563-4245-8ede-09235e421820)
